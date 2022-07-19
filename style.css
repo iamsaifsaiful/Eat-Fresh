@@ -1,0 +1,168 @@
+body{
+    padding: 0px;
+    background-color: rgb(245, 241, 241);
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.top-section{
+    display: flex;
+    margin-bottom: 100px;
+    margin-left: 15%;
+    margin-right: 
+    10%;
+}
+.skip-text{
+    color:orange;
+}
+.headline{
+    font-size: 80px;
+    text-align: left;
+    margin: 0px;
+    color: rgb(53, 53, 53);
+}
+.sub-text{
+    font-size: 30px;
+    margin-bottom: 80px;
+    font-weight: 200px;
+    color: rgb(53, 53, 53);
+}
+.order-food{
+    text-decoration: none;
+    background-color: orange;
+    padding: 20px 40px;
+    border-radius: 40px;
+    color: white;  
+    font-size: 20px;  
+}
+.headling-text-part{
+    width: 55%;
+    margin-top: 12%;
+}
+.top-image-part{
+    width: 30%;
+    margin-top: 7%;
+}
+.man{
+    width: 100%;
+    margin-left: 70px;
+}
+.about-us{
+    width: 100%;
+    height: 800px;
+    margin: 0px;
+    display: flex;
+    background-color: white;
+    margin-bottom: 100px;
+
+}
+.about-us-image{
+    width: 50%;
+}
+.image-about-us{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 800px;
+}
+.about-us-text-section{
+    width: 50%;
+}
+.about-us-text{
+    font-size: 50px;
+    text-align: left;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.about-us-sub-text{
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+}
+.contact-us-button{
+    text-decoration: none;
+    margin-left: 100px;
+    background-color: orange;
+    padding: 20px 40px;
+    border-radius: 20px;
+    color: white;
+}
+
+.recepie-text{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+}
+.recepie-text-part{
+    width: 50%;
+    margin-left: 25%;
+}
+.my-recepie-text{
+    font-size: 40px;
+    text-align: center;
+}
+.my-recepie-sub-text{
+    font-size: 20px;
+    text-align: center;
+}
+.recepie-menu{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    display: flex;
+}
+.menu{
+    width: 45%;
+    height: 650px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin-left: 70px;
+    box-shadow: 10px 10px 25px grey;
+}
+.menu-image{
+    width: 90%;
+    height: 350px;
+    border-radius: 20px;
+    background-color: rgb(160, 158, 158);
+    margin: 37px;
+}
+.food-image{
+    height: 350px;
+    width: 100%;
+    border-radius: 20px;
+}
+.menu-text{
+    margin: 37px;
+}
+.shop-details{
+    margin-left: 9%;
+    margin-right: 7%;
+    margin-bottom: 100px;
+    display: flex;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 25px grey;
+    height: 250px;
+}
+.details{
+    margin-top: 2%;
+    margin-bottom: 5%;
+    margin-left: 18%;
+}
+.details-heading{
+    font-size:40px;
+}
+.footer{
+    height: 200px;
+    background-color: black;
+    color: gray;
+    text-align: center;
+}
+.footer-text{
+    padding-top: 50px;
+}
+.eat-text{
+    color: orange;
+}
